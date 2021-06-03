@@ -1,0 +1,15 @@
+.input-search {
+    min-width: 100%;
+    font-size: 1rem;
+    margin: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    border: none;
+    outline-width: 0px;
+    border-radius:  50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: transform 100ms ease-in-out;
+}
+
+.input-search:hover {
+ transform: scale(1.01);
+}
